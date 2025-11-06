@@ -28,6 +28,13 @@ Il progetto include:
    - Pagina Executive: KPI e trend globali.
    - Market Breakdown: Top regioni, modelli e fuel mix.
 
+## 📊 Power BI Dashboard
+
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Market Analysis
+![Market Analysis](screenshots/market_analysis.png)
 ---
 
 ## 🧠 Conclusioni
